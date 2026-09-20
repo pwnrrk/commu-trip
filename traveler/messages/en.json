@@ -1,0 +1,78 @@
+{
+  "SiteHeader": {
+    "discover": "Discover",
+    "providers": "Trip providers",
+    "driverHubs": "Driver hubs",
+    "signIn": "Sign in",
+    "startTrip": "Start a trip"
+  },
+  "Hero": {
+    "headline": "Find your next trail, not just your next trip",
+    "subhead": "Camps, treks, and shared-budget trips across Thailand, planned with people who are actually going.",
+    "scrollHint": "Browse open trips"
+  },
+  "TripSearch": {
+    "tabTrek": "Trek",
+    "tabCamp": "Camp",
+    "tabTour": "Tour",
+    "tabShared": "Shared trip",
+    "destinationLabel": "Region or park",
+    "destinationPlaceholder": "e.g. Doi Inthanon, Kanchanaburi",
+    "datesLabel": "Dates",
+    "datesPlaceholder": "Pick your window",
+    "groupLabel": "Group size",
+    "groupPlaceholder": "Just me",
+    "submit": "Search open trips"
+  },
+  "StatsStrip": {
+    "sampleNote": "Sample figures for this scaffold",
+    "tripsHosted": "Trips hosted",
+    "tripsHostedValue": "1,240",
+    "provincesCovered": "Provinces covered",
+    "provincesCoveredValue": "58",
+    "travelersMatched": "Travelers matched",
+    "travelersMatchedValue": "6,300"
+  },
+  "RegionScroll": {
+    "title": "Browse by region",
+    "description": "Every region groups treks, camps, and tour listings from providers who operate there."
+  },
+  "FeaturedTrips": {
+    "title": "Open trips this month",
+    "description": "A mix of community-organized and provider-run listings with seats still open.",
+    "pricePrefix": "from",
+    "perPerson": "per person",
+    "spotsLeft": "{count} spots left",
+    "viewTrip": "View trip"
+  },
+  "HowItWorks": {
+    "title": "How a trip comes together",
+    "step1Title": "Post or join",
+    "step1Body": "Start a trip with your route and budget, or join one that already has seats open.",
+    "step2Title": "Coordinate",
+    "step2Body": "Confirm dates, split costs, and sort logistics with everyone in one shared trip page.",
+    "step3Title": "Go",
+    "step3Body": "Meet at the trailhead. Your driver hub and provider details are already on the page."
+  },
+  "ProviderCta": {
+    "title": "Running a trekking season or a fixed route?",
+    "body": "List your trips, manage bookings, and handle mass events like national park trekking seasons from one dashboard.",
+    "action": "Set up a provider account"
+  },
+  "SiteFooter": {
+    "tagline": "Community-driven trip discovery for Thailand.",
+    "discoverHeading": "Discover",
+    "treks": "Treks",
+    "camps": "Camps",
+    "tours": "Tours",
+    "sharedTrips": "Shared-budget trips",
+    "platformHeading": "Platform",
+    "forProviders": "For trip providers",
+    "forDrivers": "For driver hubs",
+    "about": "About CommuTrip",
+    "legalHeading": "Legal",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "rights": "All rights reserved."
+  }
+}
