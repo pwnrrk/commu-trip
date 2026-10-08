@@ -1,0 +1,127 @@
+<mxfile host="Electron" agent="Claude">
+  <diagram id="commu-trip-traveler-sitemap" name="Traveler Sitemap">
+    <mxGraphModel dx="1178" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1900" pageHeight="900" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="root" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;fontStyle=1;" value="Traveler App (commutrip)" vertex="1">
+          <mxGeometry height="60" width="200" x="850" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="home" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=0;" value="Home / Landing" vertex="1">
+          <mxGeometry height="50" width="160" x="50" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="auth" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=0;" value="Login / Register" vertex="1">
+          <mxGeometry height="50" width="160" x="250" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="explore" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=0;" value="Explore Trips" vertex="1">
+          <mxGeometry height="50" width="160" x="590" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="posttrip" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=0;" value="Post a Trip (Shared Budget)" vertex="1">
+          <mxGeometry height="50" width="160" x="790" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="providers" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=0;" value="Tour Providers" vertex="1">
+          <mxGeometry height="50" width="160" x="990" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="booking" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=0;" value="Booking &amp; Checkout" vertex="1">
+          <mxGeometry height="50" width="160" x="1190" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="profile" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=0;" value="My Profile" vertex="1">
+          <mxGeometry height="50" width="160" x="1560" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="notif" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=0;" value="Notifications" vertex="1">
+          <mxGeometry height="50" width="160" x="1760" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="community" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=0;" value="Community / Reviews" vertex="1">
+          <mxGeometry height="50" width="160" x="1960" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="login" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=0;" value="Login" vertex="1">
+          <mxGeometry height="50" width="140" x="160" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="register" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=0;" value="Register" vertex="1">
+          <mxGeometry height="50" width="140" x="340" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="search" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=0;" value="Search &amp; Filters (Camping, Trek, Tour)" vertex="1">
+          <mxGeometry height="50" width="170" x="500" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="tripdetail" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=0;" value="Trip Detail" vertex="1">
+          <mxGeometry height="50" width="140" x="690" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="providerdetail" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=0;" value="Provider Detail" vertex="1">
+          <mxGeometry height="50" width="160" x="990" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="mytrips" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=0;" value="My Trips" vertex="1">
+          <mxGeometry height="50" width="140" x="1470" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="mybookings" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=0;" value="My Bookings" vertex="1">
+          <mxGeometry height="50" width="140" x="1650" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="saved" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=0;" value="Saved / Wishlist" vertex="1">
+          <mxGeometry height="50" width="140" x="1310" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="settings" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12;fontStyle=0;" value="Settings" vertex="1">
+          <mxGeometry height="50" width="140" x="1810" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="e0" edge="1" parent="1" source="root" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;elbow=vertical;strokeColor=#666666;" target="home">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="root" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;elbow=vertical;strokeColor=#666666;" target="auth">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="root" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;elbow=vertical;strokeColor=#666666;" target="explore">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="root" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;elbow=vertical;strokeColor=#666666;" target="posttrip">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" source="root" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;elbow=vertical;strokeColor=#666666;" target="providers">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" edge="1" parent="1" source="root" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;elbow=vertical;strokeColor=#666666;" target="booking">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e6" edge="1" parent="1" source="root" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;elbow=vertical;strokeColor=#666666;" target="profile">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e7" edge="1" parent="1" source="root" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;elbow=vertical;strokeColor=#666666;" target="notif">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e8" edge="1" parent="1" source="root" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;elbow=vertical;strokeColor=#666666;" target="community">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e9" edge="1" parent="1" source="auth" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;elbow=vertical;strokeColor=#666666;" target="login">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e10" edge="1" parent="1" source="auth" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;elbow=vertical;strokeColor=#666666;" target="register">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e11" edge="1" parent="1" source="explore" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;elbow=vertical;strokeColor=#666666;" target="search">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e12" edge="1" parent="1" source="explore" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;elbow=vertical;strokeColor=#666666;" target="tripdetail">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e13" edge="1" parent="1" source="tripdetail" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;elbow=vertical;strokeColor=#666666;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="booking">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e14" edge="1" parent="1" source="providers" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;elbow=vertical;strokeColor=#666666;" target="providerdetail">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e15" edge="1" parent="1" source="providerdetail" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;elbow=vertical;strokeColor=#666666;" target="booking">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e16" edge="1" parent="1" source="profile" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;elbow=vertical;strokeColor=#666666;" target="mytrips">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e17" edge="1" parent="1" source="profile" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;elbow=vertical;strokeColor=#666666;" target="mybookings">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e18" edge="1" parent="1" source="profile" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;elbow=vertical;strokeColor=#666666;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="saved">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e19" edge="1" parent="1" source="profile" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;elbow=vertical;strokeColor=#666666;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="settings">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
